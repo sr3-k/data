@@ -1,0 +1,30 @@
+company,date,product,metric_type,active_users,confidence
+Anthropic,2025-01-15 00:00:00,Claude,MAU,18900000.0,Likely
+Anthropic,2025-05-15 00:00:00,Claude,MAU,30000000.0,Likely
+Anthropic,2025-08-15 00:00:00,Claude,MAU,19000000.0,Likely
+DeepSeek,2025-03-28,DeepSeek,DAU,10000000.0,Likely
+Google,2025-03-15,Gemini,MAU,350000000.0,Confident
+Google,2025-03-28,Gemini,DAU,35000000.0,Confident
+Google,2025-05-20,Gemini,MAU,400000000.0,Confident
+Google,2025-07-23,Gemini,MAU,450000000.0,Confident
+Google,2025-10-29,Gemini,MAU,650000000.0,Confident
+Meta,2024-09-25,Meta AI assistant,WAU,185000000.0,Confident
+Meta,2024-10-30,Meta AI assistant,MAU,500000000.0,Confident
+Meta,2024-12-15,Meta AI assistant,MAU,600000000.0,Confident
+Meta,2025-01-29,Meta AI assistant,MAU,700000000.0,Confident
+Meta,2025-03-28,Meta AI assistant,DAU,100000000.0,Likely
+Meta,2025-05-28,Meta AI assistant,MAU,1000000000.0,Confident
+Meta,2025-10-29,Meta AI assistant,MAU,1000000000.0,Confident
+OpenAI,2023-03-25,ChatGPT,WAU,50000000.0,Likely
+OpenAI,2023-09-20,ChatGPT,WAU,80000000.0,Likely
+OpenAI,2024-03-20,ChatGPT,WAU,125000000.0,Likely
+OpenAI,2024-06-30,All products,MAU,350000000.0,Likely
+OpenAI,2024-09-15,ChatGPT,WAU,240000000.0,Likely
+OpenAI,2024-12-04,ChatGPT,WAU,300000000.0,Confident
+OpenAI,2025-03-13,ChatGPT,WAU,430000000.0,Likely
+OpenAI,2025-03-28,ChatGPT,DAU,160000000.0,Likely
+OpenAI,2025-07-15,ChatGPT,WAU,770000000.0,Confident
+OpenAI,2025-08-04,ChatGPT,WAU,700000000.0,Confident
+OpenAI,2025-10-06,ChatGPT,WAU,800000000.0,Confident
+xAI,2025-03-28,Grok,DAU,15000000.0,Likely
+xAI,2025-09-17,Grok,MAU,64000000.0,Confident

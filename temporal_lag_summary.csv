@@ -1,0 +1,7 @@
+lag_type,category,median_lag_days,mean_lag_days,sample_size
+Hardware → Deployment,NVIDIA V100,-8.0,-7.586206896551724,58
+Hardware → Deployment,NVIDIA A100,371.0,480.2689075630252,119
+Hardware → Deployment,NVIDIA H100,79.0,59.19101123595506,89
+Infrastructure → Revenue,Anthropic,120.0,120.0,1
+Infrastructure → Revenue,OpenAI,59.0,59.0,1
+Infrastructure → Revenue,xAI,354.0,354.0,1

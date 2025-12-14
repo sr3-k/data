@@ -1,0 +1,4 @@
+data_center,company,first_operational_date,revenue_inflection_date,lag_days,lag_months,initial_power_mw,revenue_at_inflection
+Anthropic-Amazon Project Rainier New Carlisle Indiana,Anthropic,2025-06-23,2025-10-21,120,3.9421813403416555,478.0,7000000000
+OpenAI-Oracle Stargate Abilene Texas,OpenAI,2025-06-28,2025-08-26,59,1.938239159001314,147.0,13000000000
+xAI Colossus 1 Memphis Tennessee,xAI,2024-08-11,2025-07-31,354,11.629434954007884,44.0,500000000

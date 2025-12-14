@@ -1,0 +1,334 @@
+cluster_name,chip_type,hardware_release_date,deployment_date,gpu_count,deployment_lag_days,owner,country,status
+xAI Colossus Memphis Phase 3,NVIDIA H100,2024-03-14,2025-07-22,200000.0,495.0,xAI,United States of America,Existing
+xAI Colossus Memphis Phase 2,NVIDIA H100,2024-03-14,2025-02-18,150000.0,341.0,xAI,United States of America,Existing
+xAI Colossus Memphis Phase 1,NVIDIA H100,2024-03-14,2024-09-02,100000.0,172.0,xAI,United States of America,Existing
+Meta 100k,NVIDIA H100,2024-03-14,2024-10-30,100000.0,230.0,Meta AI,United States of America,Existing
+OpenAI/Microsoft Goodyear Arizona,NVIDIA H100,2024-03-14,2024-10-02,100000.0,202.0,"Microsoft,OpenAI",United States of America,Existing
+Oracle OCI Supercluster H200s,NVIDIA H200,2024-11-18,2024-11-21,65536.0,3.0,Oracle,United States of America,Existing
+Tesla Cortex Phase 1,NVIDIA H100,2024-03-14,2024-11-15,50000.0,246.0,Tesla,United States of America,Existing
+Lawrence Livermore NL El Capitan Phase 2,AMD Instinct MI300A,2023-01-04,2024-11-18,44544.0,684.0,US Department of Energy,United States of America,Existing
+CoreWeave H200s,NVIDIA H200,2024-11-18,2024-08-28,42000.0,-82.0,CoreWeave,United States of America,Existing
+Lambda Labs H100/H200,NVIDIA H100,2024-03-14,2023-12-05,32000.0,-100.0,Lambda Labs,United States of America,Existing
+Meta GenAI 2024b,NVIDIA H100,2024-03-14,2024-03-12,24576.0,-2.0,Meta AI,United States of America,Existing
+Meta GenAI 2024a,NVIDIA H100,2024-03-14,2024-03-12,24576.0,-2.0,Meta AI,United States of America,Existing
+"""Jupiter, Jülich""",NVIDIA H200,2024-11-18,2025-06-10,23536.0,204.0,"EuroHPC JU,Julich Supercomputing Center",Germany,Existing
+Oracle OCI MI300x,AMD Instinct MI300X,2023-12-06,2024-11-15,16384.0,345.0,Oracle,United States of America,Existing
+Andreessen Horowitz Oxygen,NVIDIA H100,2024-03-14,2024-10-23,20000.0,223.0,Andreessen Horowitz,United States of America,Existing
+AWS EC2 P5 UltraClusters,NVIDIA H100,2024-03-14,2023-07-26,20000.0,-232.0,Amazon,United States of America,Existing
+Paper on Llama 3.1,NVIDIA H100,2024-03-14,2024-07-23,16384.0,131.0,Meta AI,,Existing
+NexGen Cloud Hyperstack AQ Compute Supercomputer,NVIDIA H100,2024-03-14,2024-04-19,16384.0,36.0,NexGen Cloud,Norway,Existing
+Oracle OCI Supercluster H100s,NVIDIA H100,2024-03-14,2024-04-15,16384.0,32.0,Oracle,United States of America,Existing
+Microsoft Azure Eagle,NVIDIA H100,2024-03-14,2023-11-15,14400.0,-120.0,Microsoft,United States of America,Existing
+NVIDIA MLPerf v4.0 Submission 2024,NVIDIA H100,2024-03-14,2024-06-12,11616.0,90.0,NVIDIA,,Existing
+Microsoft Azure MLPerf 3.1 Submission,NVIDIA H100,2024-03-14,2023-11-08,10752.0,-127.0,Microsoft,United States of America,Existing
+NVIDIA CoreWeave Eos-DFW Phase 1,NVIDIA H100,2024-03-14,2023-11-08,10752.0,-127.0,"NVIDIA,CoreWeave",United States of America,Existing
+Alps Supercomputer Phase 2,NVIDIA H200,2024-11-18,2024-09-17,10752.0,-62.0,ETH Domain,Switzerland,Existing
+Oracle OCI Supercluster A100s,NVIDIA A100,2020-11-16,2023-11-15,32768.0,1094.0,Oracle,United States of America,Existing
+Google TPUv5e,Google TPU v5e,2023-08-29,2023-11-08,50944.0,71.0,Google,,Existing
+Imbue 10k Cluster,NVIDIA H100,2024-03-14,2023-09-07,10000.0,-189.0,Imbue,United States of America,Existing
+Tesla 10k H100 Cluster,NVIDIA H100,2024-03-14,2023-08-28,10000.0,-199.0,Tesla,United States of America,Existing
+Sesterce Nordics,NVIDIA H100,2024-03-14,2024-06-29,8192.0,107.0,Sesterce,,Existing
+Nebius 8k Finland Phase 1,NVIDIA H100,2024-03-14,2024-05-10,8000.0,57.0,Nebius AI,Finland,Existing
+Microsoft GPT-4 cluster,NVIDIA A100,2020-11-16,2022-04-30,25000.0,530.0,"Microsoft,OpenAI",United States of America,Existing
+Oak Ridge NL Frontier,AMD Radeon Instinct MI250X,2021-11-08,2022-05-30,37632.0,203.0,US Department of Energy,United States of America,Existing
+Alps Supercomputer Phase 1,NVIDIA H200,2024-11-18,2024-06-01,6400.0,-170.0,ETH Domain,Switzerland,Existing
+AWS EC2 Trn1,Amazon Trainium1,2022-10-15,2022-10-11,30000.0,-4.0,Amazon,United States of America,Existing
+Paper on Movie Gen,NVIDIA H100,2024-03-14,2024-10-04,6144.0,204.0,Meta AI,,Existing
+AIST ABCI 3.0,NVIDIA H200,2024-11-18,2025-01-20,6128.0,63.0,National Institute of Advanced Industrial Science and Technology (AIST),Japan,Existing
+University of Bristol Isambard-AI,NVIDIA H200,2024-11-18,2025-06-15,5448.0,209.0,UK Research and Innovation,United Kingdom of Great Britain and Northern Ireland,Existing
+Meta Research SuperCluster (RSC-1) Phase 2,NVIDIA A100,2020-11-16,2023-05-18,16000.0,913.0,Meta AI,United States of America,Existing
+Inflection-2 training cluster,NVIDIA H100,2024-03-14,2023-07-30,5000.0,-228.0,"Inflection AI,CoreWeave",United States of America,Existing
+Nebius ISEG2,NVIDIA H200,2024-11-18,2025-06-15,4992.0,209.0,Nebius AI,Iceland,Existing
+NVIDIA Eos Phase 2,NVIDIA H100,2024-03-14,2023-11-01,4608.0,-134.0,NVIDIA,United States of America,Existing
+Lawrence Livermore NL Tuolumne,AMD Instinct MI300A,2023-01-04,2024-11-18,4608.0,684.0,US Department of Energy,United States of America,Existing
+Google Oklahoma TPU v4 Pods,Google TPU v4,2021-05-20,2022-05-12,32768.0,357.0,Google,United States of America,Existing
+Mare Nostrum 5,NVIDIA H100,2024-03-14,2023-11-01,4480.0,-134.0,"Barcelona Supercomputing Center,EuroHPC JU",Spain,Existing
+Together AI H100 Cluster,NVIDIA H100,2024-03-14,2023-10-16,4424.0,-150.0,Together,United States of America,Existing
+EuroHPC Leonardo,NVIDIA A100,2020-11-16,2022-11-22,13824.0,736.0,EuroHPC JU,Italy,Existing
+Amazon Titan training cluster,NVIDIA A100,2020-11-16,2023-01-15,13760.0,790.0,Amazon,United States of America,Existing
+Google Hypercomputer TPU v5p pod,Google TPU v5p,2023-12-06,2023-12-06,8960.0,0.0,Google,,Existing
+Yotta Shakti Cloud NM1 Phase 1,NVIDIA H100,2024-03-14,2024-05-15,4096.0,62.0,Yotta Data Services,India,Existing
+Sesterce Synapse Phase 2,NVIDIA H200,2024-11-18,2025-01-15,4096.0,58.0,Sesterce,France,Existing
+Sesterce H100s Phase 2,NVIDIA H100,2024-03-14,2024-07-06,4096.0,114.0,Sesterce,France,Existing
+ExxonMobil Discovery 6,NVIDIA H200,2024-11-18,2025-06-15,4032.0,209.0,ExxonMobil,United States of America,Existing
+Microsoft Azure ND H100 v5 VM,NVIDIA H100,2024-03-14,2023-03-13,4000.0,-367.0,Microsoft,United States of America,Existing
+Sweden 4k H100 Cluster,NVIDIA H100,2024-03-14,2025-01-14,4000.0,306.0,,Sweden,Existing
+Nebius Kansas City Phase 1,NVIDIA H200,2024-11-18,2025-04-15,4000.0,148.0,Nebius AI,United States of America,Existing
+Gemini 1.0 Ultra training cluster A,Google TPU v4,2021-05-20,2023-08-20,28672.0,822.0,Google,United States of America,Existing
+Gemini 1.0 Ultra training cluster B,Google TPU v4,2021-05-20,2023-08-20,28672.0,822.0,Google,United States of America,Existing
+Vultr Chicago Cluster,AMD Instinct MI300X,2023-12-06,2024-12-11,3000.0,371.0,Vultr,United States of America,Existing
+NFDG Andromeda Phase 2,NVIDIA H100,2024-03-14,2024-07-15,3632.0,123.0,Nat Friedman and Daniel Gross,United States of America,Existing
+NVIDIA Coreweave MLPerf v3.0 Submission 2023,NVIDIA H100,2024-03-14,2023-06-01,3584.0,-287.0,"NVIDIA,CoreWeave,Inflection AI",United States of America,Existing
+XTX Markets Cluster,NVIDIA A100,2020-11-16,2023-03-27,10000.0,861.0,XTX Markets,,Existing
+Novo Nordisk Gefion,NVIDIA H100,2024-03-14,2024-10-23,1528.0,223.0,"Novo Nordisk Foundation,Danish Centre for AI Innovation,Export and Investment Fund of Denmark",Denmark,Existing
+Paper on Gemma 2 27B,Google TPU v5p,2023-12-06,2024-06-27,6144.0,204.0,Google,,Existing
+CEA EXA1-HE Phase 3,NVIDIA H200,2024-11-18,2025-06-15,2688.0,209.0,French Alternative Energies and Atomic Energy Commission (CEA),France,Existing
+Eni HPC6,AMD Radeon Instinct MI250X,2021-11-08,2024-11-18,13888.0,1106.0,Eni,Italy,Existing
+Los Alamos NL Venado,NVIDIA H200,2024-11-18,2024-04-16,2560.0,-216.0,US Department of Energy,United States of America,Existing
+Meta Research SuperCluster 2 (RSC-2),NVIDIA A100,2020-11-16,2023-10-31,8000.0,1079.0,Meta AI,United States of America,Existing
+NFDG Andromeda Phase 1,NVIDIA H100,2024-03-14,2023-06-13,2512.0,-275.0,Nat Friedman and Daniel Gross,United States of America,Existing
+Samsung SSC4,NVIDIA H100,2024-03-14,2025-06-15,2496.0,458.0,Samsung,Korea (Republic of),Existing
+Tesla A100 Cluster Phase 2,NVIDIA A100,2020-11-16,2022-08-16,7360.0,638.0,Tesla,United States of America,Existing
+EuroHPC LUMI,AMD Radeon Instinct MI250X,2021-11-08,2022-09-15,11912.0,311.0,EuroHPC JU,Finland,Existing
+Lawrence Berkeley NL NERSC Perlmutter,NVIDIA A100,2020-11-16,2021-05-17,6144.0,182.0,US Department of Energy,United States of America,Existing
+Sesterce H100s Phase 1,NVIDIA H100,2024-03-14,2024-07-06,2048.0,114.0,Sesterce,,Existing
+Northern Data Group Taiga Cloud Island 4,NVIDIA H100,2024-03-14,2024-03-30,2048.0,16.0,Northern Data Group,,Existing
+AIST ABCI-Q,NVIDIA H100,2024-03-14,2025-06-15,2048.0,458.0,National Institute of Advanced Industrial Science and Technology (AIST),Japan,Existing
+Northern Data Group Taiga Cloud NO1 Island 2,NVIDIA H100,2024-03-14,2024-03-30,2048.0,16.0,Northern Data Group,Norway,Existing
+Sesterce Synapse Phase 1,NVIDIA H200,2024-11-18,2024-09-30,2048.0,-49.0,Sesterce,France,Existing
+NVIDIA Israel-1 Phase 2,NVIDIA H100,2024-03-14,2024-11-20,2048.0,251.0,NVIDIA,Israel,Existing
+Northern Data Group Taiga Cloud Island 3,NVIDIA H100,2024-03-14,2024-03-30,2048.0,16.0,Northern Data Group,,Existing
+Northern Data Group Taiga Cloud NO1 Island 1,NVIDIA H100,2024-03-14,2024-03-30,2048.0,16.0,Northern Data Group,Norway,Existing
+Northern Data Group Njored Taiga Cloud Island 5,NVIDIA H100,2024-03-14,2024-03-30,2048.0,16.0,Northern Data Group,United Kingdom of Great Britain and Northern Ireland,Existing
+Horizon Compute Baobab Phase 2,NVIDIA H100,2024-03-14,2025-03-01,2048.0,352.0,Horizon Compute,United States of America,Existing
+SoftBank CHIE-2,NVIDIA H100,2024-03-14,2024-10-31,2040.0,231.0,Softbank,Japan,Existing
+SoftBank CHIE-3,NVIDIA H100,2024-03-14,2024-10-31,2040.0,231.0,Softbank,Japan,Existing
+Sakura's H100s Phase 1,NVIDIA H100,2024-03-14,2024-07-31,2016.0,139.0,Sakura Internet,Japan,Existing
+Reka H100 Rental,NVIDIA H100,2024-03-14,2023-12-15,2000.0,-90.0,Reka AI,,Existing
+Quebec 2k H100 Cluster,NVIDIA H100,2024-03-14,2025-01-14,2000.0,306.0,,Canada,Existing
+Meta Research SuperCluster (RSC-1) Phase 1,NVIDIA A100,2020-11-16,2022-01-24,6080.0,434.0,Meta AI,United States of America,Existing
+CEA EXA1-HE Phase 2,NVIDIA H200,2024-11-18,2024-04-17,1908.0,-215.0,French Alternative Energies and Atomic Energy Commission (CEA),France,Existing
+Tesla A100 Cluster Phase 1,NVIDIA A100,2020-11-16,2021-06-20,5760.0,216.0,Tesla,United States of America,Existing
+Microsoft Azure Meta AI Rental,NVIDIA A100,2020-11-16,2022-05-27,5400.0,557.0,Microsoft,United States of America,Existing
+Jean Zay Supercomputer Phase 4,NVIDIA H100,2024-03-14,2024-09-15,1456.0,185.0,GENCI,France,Existing
+Nebius ISEG,NVIDIA H100,2024-03-14,2023-11-01,1520.0,-134.0,Nebius AI,Finland,Existing
+Sandia NL El Dorado,AMD Instinct MI300A,2023-01-04,2024-11-18,1520.0,684.0,US Department of Energy,United States of America,Existing
+NVIDIA Selene Phase 2,NVIDIA A100,2020-11-16,2020-11-30,4480.0,14.0,NVIDIA,United States of America,Existing
+Paper on Megatron-Turing,NVIDIA A100,2020-11-16,2022-01-28,4480.0,438.0,"Microsoft,NVIDIA",,Existing
+Meta 2017 V100 Cluster,NVIDIA V100,2019-11-26,2017-10-01,22000.0,-786.0,Meta AI,United States of America,Existing
+TensorWave MI300X Cluster 1 Phase 1,AMD Instinct MI300X,2023-12-06,2024-04-01,1000.0,117.0,TensorWave,United States of America,Existing
+Paper on Falcon 180B,NVIDIA A100,2020-11-16,2023-11-28,4096.0,1107.0,Amazon,,Existing
+Core42 SuperPOD,NVIDIA H100,2024-03-14,2024-10-30,1272.0,230.0,G42,United Arab Emirates,Existing
+Tesla Training Cluster,NVIDIA A100,2020-11-16,2021-08-20,4032.0,277.0,Tesla,United States of America,Existing
+AWS EC2 P4d,NVIDIA A100,2020-11-16,2020-11-02,4000.0,-14.0,Amazon,United States of America,Existing
+Ezra-1 Stability AI AWS Cluster,NVIDIA A100,2020-11-16,2022-07-20,4000.0,611.0,Amazon,,Existing
+JUWELS-Booster,NVIDIA A100,2020-11-16,2020-11-16,3744.0,0.0,Julich Supercomputing Center,Germany,Existing
+Paper on AFM-server,Google TPU v4,2021-05-20,2024-06-10,8192.0,1117.0,Google,United States of America,Existing
+JCAHPC Miyabi,NVIDIA H200,2024-11-18,2025-01-15,1120.0,58.0,Joint Center for Advanced High Performance Computing (JCAHPC),Japan,Existing
+Lawrence Livermore NL Sierra,NVIDIA V100,2019-11-26,2018-06-01,17280.0,-543.0,US Department of Energy,United States of America,Existing
+Ubilink.AI Supercomputer,NVIDIA H100,2024-03-14,2024-11-18,1024.0,249.0,Ubilink AI,Taiwan,Existing
+LeptonAI H100 Cluster,NVIDIA H100,2024-03-14,2024-08-20,1024.0,159.0,Lepton AI,United States of America,Existing
+IBM Blue Vela,NVIDIA H100,2024-03-14,2024-07-07,1024.0,115.0,IBM,United States of America,Existing
+SIAM AI HGX,NVIDIA H100,2024-03-14,2024-09-12,1024.0,182.0,SIAM AI,Thailand,Existing
+Horizon Compute Baobab Phase 1,NVIDIA H100,2024-03-14,2024-02-15,1024.0,-28.0,Horizon Compute,United States of America,Existing
+Paper on Mamba 2 Hybrid,NVIDIA H100,2024-03-14,2024-06-12,1024.0,90.0,NVIDIA,,Existing
+NVIDIA Helios,NVIDIA H200,2024-11-18,2023-11-15,1024.0,-369.0,NVIDIA,,Existing
+Chan Zuckerberg Initiative GPU Cluster,NVIDIA H100,2024-03-14,2025-01-15,1024.0,307.0,"CZ Biohub Network,CoreWeave",United States of America,Existing
+GreenNode Bangkok Cluster,NVIDIA H100,2024-03-14,2024-06-25,1024.0,103.0,VNG Corporation,Thailand,Existing
+NVIDIA Eos Phase 1,NVIDIA H100,2024-03-14,2023-05-22,1024.0,-297.0,NVIDIA,United States of America,Existing
+Ori Global Cloud H100 Cluster,NVIDIA H100,2024-03-14,2024-10-16,1024.0,216.0,Ori Industries,,Existing
+Sustainable Metal Cloud Singapore Phase 1,NVIDIA H100,2024-03-14,2024-05-30,1024.0,77.0,SMC - Sustainable Metal Cloud,Singapore,Existing
+Denvr Dataworks H100,NVIDIA H100,2024-03-14,2024-10-15,1024.0,215.0,Denvr Dataworks,United States of America,Existing
+NVIDIA Israel-1 Phase 1,NVIDIA H100,2024-03-14,2023-11-23,1024.0,-112.0,NVIDIA,Israel,Existing
+Scaleway Nabuchodonosor,NVIDIA H100,2024-03-14,2023-10-05,1016.0,-161.0,Iliad SA,France,Existing
+Hut 8 H100 Cluster,NVIDIA H100,2024-03-14,2024-09-26,1000.0,196.0,Hut 8,United States of America,Existing
+Voltage Park Texas Phase 1,NVIDIA H100,2024-03-14,2024-02-27,1000.0,-16.0,Voltage Park,United States of America,Existing
+NHN Cloud's National AI Data Center,NVIDIA H100,2024-03-14,2023-11-01,1000.0,-134.0,NHN Corporation,Korea (Republic of),Existing
+Paper on Chameleon,NVIDIA A100,2020-11-16,2024-05-16,3072.0,1277.0,Meta AI,,Existing
+TSUBAME4.0,NVIDIA H100,2024-03-14,2024-04-01,960.0,18.0,Tokyo Institute of Technology,Japan,Existing
+Paper on AFM-on-device,Google TPU v5p,2023-12-06,2024-06-10,2048.0,187.0,Google,,Existing
+Intel Stability Gaudi 2,Intel Habana Gaudi2,2022-05-10,2024-03-11,4000.0,671.0,Intel,United States of America,Existing
+IBM Vela,NVIDIA A100,2020-11-16,2022-05-30,2880.0,560.0,IBM,United States of America,Existing
+Paper on PaLM,Google TPU v4,2021-05-20,2022-04-05,6144.0,320.0,Google,United States of America,Existing
+Iris Energy Prince George cluster,NVIDIA H100,2024-03-14,2024-04-30,816.0,47.0,IREN,Canada,Existing
+NVIDIA Selene Phase 1,NVIDIA A100,2020-11-16,2020-06-22,2240.0,-147.0,NVIDIA,United States of America,Existing
+NAVER Corp Sejong,NVIDIA A100,2020-11-16,2023-11-15,2240.0,1094.0,NAVER,Korea (Republic of),Existing
+Argonne NL Polaris,NVIDIA A100,2020-11-16,2021-11-01,2240.0,350.0,US Department of Energy,United States of America,Existing
+Microsoft Azure Voyager-EUS2,NVIDIA A100,2020-11-16,2021-11-01,2112.0,350.0,Microsoft,United States of America,Existing
+Paper on LLaMA,NVIDIA A100,2020-11-16,2023-02-27,2048.0,833.0,Meta AI,,Existing
+Softbank SuperPOD,NVIDIA A100,2020-11-16,2023-09-30,2048.0,1048.0,Softbank,Japan,Existing
+Petrobras Pegasus (Pégaso),NVIDIA A100,2020-11-16,2022-11-01,2016.0,715.0,Petrobras,Brazil,Existing
+Azure OpenAI GPT-3 Cluster,NVIDIA V100,2019-11-26,2020-04-15,10000.0,141.0,"Microsoft,OpenAI",United States of America,Existing
+ND A100 v4,NVIDIA A100,2020-11-16,2021-06-01,2000.0,197.0,Microsoft,United States of America,Existing
+ExxonMobil Discovery 5,NVIDIA A100,2020-11-16,2022-11-01,2000.0,715.0,ExxonMobil,United States of America,Existing
+Paper on Gemma 2 9B,Google TPU v4,2021-05-20,2024-06-27,4096.0,1134.0,Google,United States of America,Existing
+Google TPU v4 Pod,Google TPU v4,2021-05-20,2021-05-19,4096.0,-1.0,Google,United States of America,Existing
+NVIDIA Taipei-1,NVIDIA H100,2024-03-14,2024-06-01,512.0,79.0,NVIDIA,Taiwan,Existing
+Samsung SSC-21,NVIDIA A100,2020-11-16,2021-11-01,1760.0,350.0,Samsung,Korea (Republic of),Existing
+Tesla Auto-Labeling Cluster,NVIDIA A100,2020-11-16,2021-08-20,1752.0,277.0,Tesla,United States of America,Existing
+DeepL Mercury,NVIDIA H100,2024-03-14,2023-08-02,544.0,-225.0,DeepL,Sweden,Existing
+Paper on AlphaCode,Google TPU v4,2021-05-20,2022-02-08,3750.0,264.0,Google,United States of America,Existing
+Paper on Phi-3.5-Mini,NVIDIA H100,2024-03-14,2024-04-22,512.0,39.0,Microsoft,,Existing
+Lawrence Livermore NL El Capitan Phase 1,AMD Instinct MI300A,2023-01-04,2024-06-01,512.0,514.0,US Department of Energy,United States of America,Existing
+Lawrence Livermore NL RZAdams,AMD Instinct MI300A,2023-01-04,2024-06-01,512.0,514.0,US Department of Energy,United States of America,Existing
+Ahrefs Yep1,NVIDIA H100,2024-03-14,2024-06-01,504.0,79.0,Ahrefs,United States of America,Existing
+Recursion BioHive-2,NVIDIA H100,2024-03-14,2024-05-13,504.0,60.0,Recursion Pharmaceuticals,United States of America,Existing
+Yandex Chervonenkis,NVIDIA A100,2020-11-16,2021-11-01,1592.0,350.0,Yandex,Russia,Existing
+BNY Mellon Supercomputer,NVIDIA H100,2024-03-14,2024-03-18,500.0,4.0,BNY Mellon,,Existing
+Saudi Aramco Dammam-7,NVIDIA V100,2019-11-26,2021-01-21,7912.0,422.0,Saudi Aramco,Saudi Arabia,Existing
+AGH Cyfronet Helios,NVIDIA H200,2024-11-18,2024-06-01,440.0,-170.0,AGH University of Krakow,Poland,Existing
+Eni HPC5,NVIDIA V100,2019-11-26,2020-02-21,7280.0,87.0,Eni,Italy,Existing
+CSIRO Virga,NVIDIA H100,2024-03-14,2024-07-11,448.0,119.0,CSIRO,Australia,Existing
+SURF Snellius Phase 3,NVIDIA H100,2024-03-14,2024-07-11,352.0,119.0,SURF,Netherlands,Existing
+Saudi Aramco Tuwaiq-1,NVIDIA H100,2024-03-14,2024-06-01,416.0,79.0,Saudi Aramco,Saudi Arabia,Existing
+Microsoft Azure Pioneer-WUS2,NVIDIA A100,2020-11-16,2021-06-01,1312.0,197.0,Microsoft,United States of America,Existing
+Microsoft Azure Pioneer-WEU,NVIDIA A100,2020-11-16,2021-06-01,1312.0,197.0,Microsoft,Netherlands,Existing
+Microsoft Azure Pioneer-EUS,NVIDIA A100,2020-11-16,2021-06-01,1312.0,197.0,Microsoft,United States of America,Existing
+Microsoft Azure Pioneer-SCUS,NVIDIA A100,2020-11-16,2021-06-01,1312.0,197.0,Microsoft,United States of America,Existing
+Princeton Della Phase 2,NVIDIA H100,2024-03-14,2024-03-15,296.0,1.0,Princeton University,United States of America,Existing
+Microsoft Explorer-WUS3,AMD Radeon Instinct MI250X,2021-11-08,2023-06-01,1920.0,570.0,Microsoft,United States of America,Existing
+Naver DGX Superpod,NVIDIA A100,2020-11-16,2020-10-05,1120.0,-42.0,NAVER,Korea (Republic of),Existing
+University of Florida HiPerGator 3.0 Superpod,NVIDIA A100,2020-11-16,2021-01-31,1120.0,76.0,University of Florida,United States of America,Existing
+PCSS Poznan Proxima,NVIDIA H100,2024-03-14,2024-06-01,348.0,79.0,Polish Academy of Sciences,Poland,Existing
+Yandex Lyapunov,NVIDIA A100,2020-11-16,2021-11-01,1096.0,350.0,Yandex,Russia,Existing
+Yandex Galushkin,NVIDIA A100,2020-11-16,2021-11-01,1088.0,350.0,Yandex,Russia,Existing
+NVIDIA SATURN V Phase 2,NVIDIA V100,2019-11-26,2018-03-26,5280.0,-610.0,NVIDIA,United States of America,Existing
+SK Telecom Titan Phase 2,NVIDIA A100,2020-11-16,2023-02-14,1040.0,820.0,SK Telecom,Korea (Republic of),Existing
+Nemotron-3-8B training cluster,NVIDIA A100,2020-11-16,2024-04-04,1024.0,1235.0,NVIDIA,,Existing
+Paper on HyperCLOVA,NVIDIA A100,2020-11-16,2021-09-10,1024.0,298.0,NAVER,Korea (Republic of),Existing
+Gcore data center Phase 1,NVIDIA H100,2024-03-14,2024-04-15,320.0,32.0,"Gcore,NHN Corporation",Korea (Republic of),Existing
+Paper on OPT,NVIDIA A100,2020-11-16,2022-05-02,992.0,532.0,Meta AI,,Existing
+Wroclaw Centre for Networking and Supercomputing Lem,NVIDIA H100,2024-03-14,2024-06-01,304.0,79.0,Wroclaw Tech (Wrocław University of Science and Technology),Poland,Existing
+AIST ABCI 2.0,NVIDIA A100,2020-11-16,2021-05-30,960.0,195.0,National Institute of Advanced Industrial Science and Technology (AIST),Japan,Existing
+NEC Corp Japan Supercomputer,NVIDIA A100,2020-11-16,2023-07-24,928.0,980.0,NEC Corporation,Japan,Existing
+Paper on CoCa,Google TPU v4,2021-05-20,2022-05-04,2048.0,349.0,Google,United States of America,Existing
+AIST ABCI 1.0,NVIDIA V100,2019-11-26,2018-06-01,4352.0,-543.0,National Institute of Advanced Industrial Science and Technology (AIST),Japan,Existing
+GENCI Adastra,AMD Radeon Instinct MI250X,2021-11-08,2022-06-01,1352.0,205.0,GENCI,France,Existing
+MPT-30B training cluster,NVIDIA H100,2024-03-14,2023-06-20,256.0,-268.0,MosaicML,,Existing
+Paper on Falcon Mamba 7B,NVIDIA H100,2024-03-14,2024-07-24,256.0,132.0,Technology Innovation Institute,,Existing
+Google MLPerf 0.7 Submission,Google TPU v3,2018-05-18,2020-07-29,4096.0,803.0,Google,United States of America,Existing
+Paper on Gopher,Google TPU v3,2018-05-18,2021-12-08,4096.0,1300.0,Google DeepMind,United States of America,Existing
+Paper on YaLM,NVIDIA A100,2020-11-16,2022-06-23,800.0,584.0,Yandex,,Existing
+EuroHPC MeluXina,NVIDIA A100,2020-11-16,2021-06-07,800.0,203.0,EuroHPC JU,Luxembourg,Existing
+KT SuperPOD,NVIDIA A100,2020-11-16,2023-06-01,792.0,927.0,KT,Korea (Republic of),Existing
+SberCloud Christofari Neo,NVIDIA A100,2020-11-16,2021-11-01,792.0,350.0,SberCloud,Russia,Existing
+Cineca Marconi-100,NVIDIA V100,2019-11-26,2020-04-20,3952.0,146.0,Cineca,Italy,Existing
+Opera Iceland KEF-1 SuperPOD,NVIDIA H100,2024-03-14,2024-02-28,248.0,-15.0,Opera,Iceland,Existing
+Fastweb NeXXt AI Factory,NVIDIA H100,2024-03-14,2024-07-09,248.0,117.0,Fastweb,Italy,Existing
+FZJ JURECA,NVIDIA A100,2020-11-16,2021-06-23,768.0,219.0,Julich Supercomputing Center,Germany,Existing
+Paper on GLM-130B,NVIDIA A100,2020-11-16,2022-10-05,768.0,688.0,Zhipu AI,,Existing
+Max-Planck-Gesellschaft Raven,NVIDIA A100,2020-11-16,2021-06-01,768.0,197.0,Max Planck Society,Germany,Existing
+Paper on xTrimoPGLM,NVIDIA A100,2020-11-16,2023-07-06,768.0,962.0,BioMap Research,,Existing
+NSC Berzelius Phase 2,NVIDIA A100,2020-11-16,2023-06-01,752.0,927.0,Linköping University,Sweden,Existing
+Karlsruher Institut für Technologie HoreKa,NVIDIA A100,2020-11-16,2021-06-01,740.0,197.0,Karlsruhe Institute of Technology,Germany,Existing
+KT Internal MI250 Cluster,AMD Radeon Instinct MI250X,2021-11-08,2022-12-15,1200.0,402.0,KT,Korea (Republic of),Existing
+Petrobras Gaia,NVIDIA A100,2020-11-16,2023-06-01,704.0,927.0,Petrobras,Brazil,Existing
+NSTDA Supercomputer Center (ThaiSC) LANTA,NVIDIA A100,2020-11-16,2022-11-01,704.0,715.0,National Science and Technology Development Agency (NSTDA),Thailand,Existing
+TotalEnergies Pangea III,NVIDIA V100,2019-11-26,2019-06-18,3384.0,-161.0,TotalEnergies,France,Existing
+Paper on Flamingo ,Google TPU v4,2021-05-20,2022-04-29,1536.0,344.0,Google,United States of America,Existing
+University of Illinois NCSA Delta,NVIDIA A100,2020-11-16,2022-10-11,480.0,694.0,University of Illinois Urbana-Champaign (UIUC),United States of America,Existing
+AIRAWAT-PSAI Phase 2,NVIDIA A100,2020-11-16,2023-05-23,656.0,918.0,Center for Development of Advanced Computing (C-DAC),India,Existing
+NVIDIA Cambridge-1,NVIDIA A100,2020-11-16,2021-06-01,640.0,197.0,NVIDIA,United Kingdom of Great Britain and Northern Ireland,Existing
+Calcul Québec Narval,NVIDIA A100,2020-11-16,2021-11-01,636.0,350.0,Compute Canada,Canada,Existing
+Lawrence Livermore NL Lassen Phase 2,NVIDIA V100,2019-11-26,2020-08-19,3168.0,267.0,US Department of Energy,United States of America,Existing
+hessian.AI fortytwo,NVIDIA A100,2020-11-16,2023-06-15,632.0,941.0,hessian.AI,Germany,Existing
+Japanese Research Institute 2 Supercomputer 1,NVIDIA A100,2020-11-16,2022-06-01,624.0,562.0,,Japan,Existing
+EuroHPC Karolina,NVIDIA A100,2020-11-16,2021-06-01,576.0,197.0,EuroHPC JU,Czechia,Existing
+Lawrence Livermore NL Lassen Phase 1,NVIDIA V100,2019-11-26,2018-11-01,2736.0,-390.0,US Department of Energy,United States of America,Existing
+Jean Zay Supercomputer Phase 2,NVIDIA V100,2019-11-26,2020-06-01,2696.0,188.0,GENCI,France,Existing
+Oracle 2020 A100 Cluster,NVIDIA A100,2020-11-16,2020-09-30,512.0,-47.0,Oracle,United States of America,Existing
+Paper on CodeFuse,NVIDIA A100,2020-11-16,2023-10-10,512.0,1058.0,Ant Group,,Existing
+Los Alamos NL Chicoma,NVIDIA A100,2020-11-16,2021-12-20,512.0,399.0,US Department of Energy,United States of America,Existing
+Paper on BloombergGPT,NVIDIA A100,2020-11-16,2023-03-30,512.0,864.0,Bloomberg,,Existing
+Aleph Alpha alpha ONE,NVIDIA A100,2020-11-16,2022-06-01,512.0,562.0,Aleph Alpha,Germany,Existing
+Paper on StarCoder,NVIDIA A100,2020-11-16,2023-05-09,512.0,904.0,,,Existing
+Paper on Florence,NVIDIA A100,2020-11-16,2021-11-22,512.0,371.0,Microsoft,,Existing
+Paper on Stable LM,NVIDIA A100,2020-11-16,2023-01-18,512.0,793.0,Stability AI,,Existing
+PLaMO-13B training cluster,NVIDIA A100,2020-11-16,2023-09-25,480.0,1043.0,Preferred Networks Inc,Japan,Existing
+NSC Berzelius Phase 1,NVIDIA A100,2020-11-16,2021-03-23,480.0,127.0,Linköping University,Sweden,Existing
+Pawsey Supercomputing Centre Setonix,AMD Radeon Instinct MI250X,2021-11-08,2022-07-01,768.0,235.0,Pawsey Supercomputing Centre,Australia,Existing
+Paper on GLaM,Google TPU v4,2021-05-20,2021-12-13,1024.0,207.0,Google,United States of America,Existing
+Paper on ViT-22B,Google TPU v4,2021-05-20,2023-02-10,1024.0,631.0,Google,United States of America,Existing
+Paper on PaLI,Google TPU v4,2021-05-20,2022-09-14,1024.0,482.0,Google,United States of America,Existing
+Paper on Minerva,Google TPU v4,2021-05-20,2022-06-29,1024.0,405.0,Google,United States of America,Existing
+University of Edinburgh DiRAC Tursa,NVIDIA A100,2020-11-16,2021-11-01,448.0,350.0,Distributed Research using Advanced Computing (DiRAC),United Kingdom of Great Britain and Northern Ireland,Existing
+MosaicML MPT training cluster,NVIDIA A100,2020-11-16,2023-03-05,440.0,839.0,MosaicML,,Existing
+Petrobras Dragão,NVIDIA V100,2019-11-26,2021-06-01,2176.0,553.0,Petrobras,Brazil,Existing
+Paper on BLOOM,NVIDIA A100,2020-11-16,2022-11-09,416.0,723.0,,,Existing
+Jean Zay Supercomputer Phase 3,NVIDIA A100,2020-11-16,2022-06-01,416.0,562.0,GENCI,France,Existing
+AWS Fast BERT Training,NVIDIA V100,2019-11-26,2019-12-03,2048.0,7.0,Amazon,United States of America,Existing
+Taiwania 2,NVIDIA V100,2019-11-26,2018-11-01,2016.0,-390.0,National Applied Research Laboratories Taiwan,Taiwan,Existing
+Paper on ViT,Google TPU v3,2018-05-18,2021-06-08,2048.0,1117.0,Google,,Existing
+NVIDIA In-house DGX A100 Cluster,NVIDIA A100,2020-11-16,2020-05-14,400.0,-186.0,NVIDIA,United States of America,Existing
+Paper on Code Llama,NVIDIA A100,2020-11-16,2023-08-24,400.0,1011.0,Meta AI,,Existing
+AGH Cyfronet Athena,NVIDIA A100,2020-11-16,2022-06-01,384.0,562.0,AGH University of Krakow,Poland,Existing
+Indiana University Bloomington Jetstream2,NVIDIA A100,2020-11-16,2022-02-20,360.0,461.0,Indiana University Bloomington,United States of America,Existing
+University of Tokyo Wisteria/BDEC-01 (Aquarius),NVIDIA A100,2020-11-16,2021-06-01,360.0,197.0,University of Tokyo,Japan,Existing
+NSCC ASPIRE 2A Phase 2,NVIDIA A100,2020-11-16,2022-11-01,352.0,715.0,National Supercomputing Center Singapore,Singapore,Existing
+Osaka University SQUID,NVIDIA A100,2020-11-16,2021-05-01,336.0,166.0,Osaka University,Japan,Existing
+PARAM Siddhi-AI Phase 1,NVIDIA A100,2020-11-16,2020-11-01,336.0,-15.0,Center for Development of Advanced Computing (C-DAC),India,Existing
+Recursion BioHive-1,NVIDIA A100,2020-11-16,2021-04-15,320.0,150.0,Recursion Pharmaceuticals,United States of America,Existing
+University of Cambridge Wilkes-3,NVIDIA A100,2020-11-16,2021-06-01,320.0,197.0,University of Cambridge,United Kingdom of Great Britain and Northern Ireland,Existing
+Leonardo SpA davinci-1,NVIDIA A100,2020-11-16,2020-11-01,320.0,-15.0,Leonardo SpA,Italy,Existing
+Princeton Della Phase 1,NVIDIA A100,2020-11-16,2023-02-01,316.0,807.0,Princeton University,United States of America,Existing
+NVIDIA DGX SuperPOD 2019,NVIDIA V100,2019-11-26,2019-06-17,1536.0,-162.0,NVIDIA,,Existing
+RPI AiMOS,NVIDIA V100,2019-11-26,2019-12-11,1512.0,15.0,Rensselaer Polytechnic Institute,United States of America,Existing
+SURF Snellius Phase 1,NVIDIA A100,2020-11-16,2021-09-16,288.0,304.0,SURF,Netherlands,Existing
+U.S. Army Jean,NVIDIA A100,2020-11-16,2021-05-30,280.0,195.0,US Department of Defense,United States of America,Existing
+TU Dresden AlphaCentauri,NVIDIA A100,2020-11-16,2021-02-28,272.0,104.0,Technische Universität Dresden,Germany,Existing
+University of Minnesota Agate,NVIDIA A100,2020-11-16,2021-11-01,264.0,350.0,University of Minnesota,United States of America,Existing
+G42 Artemis,NVIDIA V100,2019-11-26,2019-11-01,1296.0,-25.0,G42,United Arab Emirates,Existing
+Paper on SAM,NVIDIA A100,2020-11-16,2023-04-05,256.0,870.0,Meta AI,,Existing
+Indiana University Big Red 200,NVIDIA A100,2020-11-16,2021-11-30,256.0,379.0,Indiana University Bloomington,United States of America,Existing
+NSCC ASPIRE 2A Phase 1,NVIDIA A100,2020-11-16,2022-06-01,256.0,562.0,National Supercomputing Center Singapore,Singapore,Existing
+Paper on EVA,NVIDIA A100,2020-11-16,2022-11-14,256.0,728.0,,,Existing
+Paper on Pythia,NVIDIA A100,2020-11-16,2023-04-03,256.0,868.0,EleutherAI,,Existing
+Paper on Polyglot,NVIDIA A100,2020-11-16,2023-06-04,256.0,930.0,"EleutherAI,Stability AI",,Existing
+Paper on XGLM,NVIDIA A100,2020-11-16,2021-12-20,256.0,399.0,Meta AI,,Existing
+Paper on Stable Diffusion,NVIDIA A100,2020-11-16,2021-12-20,256.0,399.0,Stability AI,,Existing
+TACC Lonestar6,NVIDIA A100,2020-11-16,2022-11-14,252.0,728.0,University of Texas at Austin,United States of America,Existing
+Microsoft Azure Immunity Bio,NVIDIA V100,2019-11-26,2020-04-01,1250.0,127.0,Microsoft,United States of America,Existing
+Eni HPC4 Phase 2,NVIDIA A100,2020-11-16,2021-10-30,250.0,348.0,Eni,Italy,Existing
+SberCloud Christofari,NVIDIA V100,2019-11-26,2019-11-09,1200.0,-17.0,SberCloud,Russia,Existing
+EuroHPC Vega,NVIDIA A100,2020-11-16,2021-04-01,240.0,136.0,"EuroHPC JU,Institute of Information Science (IZUM)",Slovenia,Existing
+Petrobras Atlas,NVIDIA V100,2019-11-26,2020-06-01,1088.0,188.0,Petrobras,Brazil,Existing
+Japan Atomic Energy Agency and Quantum and Radiological Science and Technology HPE SGI8600,NVIDIA V100,2019-11-26,2020-11-01,1088.0,341.0,Japan Atomic Energy Agency,Japan,Existing
+Jean Zay Supercomputer Phase 1,NVIDIA V100,2019-11-26,2019-06-01,1044.0,-178.0,GENCI,France,Existing
+Preferred Networks MN-2,NVIDIA V100,2019-11-26,2019-07-30,1024.0,-119.0,Preferred Networks Inc,Japan,Existing
+Paper on DALL-E,NVIDIA V100,2019-11-26,2021-02-24,1024.0,456.0,OpenAI,,Existing
+Paper on RoBERTa,NVIDIA V100,2019-11-26,2019-07-26,1024.0,-123.0,Meta AI,United States of America,Existing
+Paper on Meena,Google TPU v3,2018-05-18,2020-01-27,1024.0,619.0,Google,,Existing
+Paper on LaMDA,Google TPU v3,2018-05-18,2022-01-20,1024.0,1343.0,Google,,Existing
+Paper on GShard,Google TPU v3,2018-05-18,2020-10-30,1024.0,896.0,Google,,Existing
+Paper on Noisy Student,Google TPU v3,2018-05-18,2019-11-11,1024.0,542.0,Google,,Existing
+Paper on Pseudo Labels,Google TPU v3,2018-05-18,2020-03-23,1024.0,675.0,Google,,Existing
+Google TPUv3 POD Generic,Google TPU v3,2018-05-18,2019-05-07,1024.0,354.0,Google,,Existing
+Paper on Switch transformer,Google TPU v3,2018-05-18,2021-01-11,1024.0,969.0,Google,,Existing
+Texas A&M Grace,NVIDIA A100,2020-11-16,2021-11-01,200.0,350.0,Texas A&M,United States of America,Existing
+SiDi IARA,NVIDIA A100,2020-11-16,2021-06-01,200.0,197.0,SiDi,Brazil,Existing
+Argonne NL Sophia (Formerly Theta),NVIDIA A100,2020-11-16,2020-05-30,192.0,-170.0,US Department of Energy,United States of America,Existing
+Atos Spartan2,NVIDIA A100,2020-11-16,2020-11-01,192.0,-15.0,,France,Existing
+Commissariat a l'Energie Atomique Topaze,NVIDIA A100,2020-11-16,2021-06-23,192.0,219.0,French Alternative Energies and Atomic Energy Commission (CEA),France,Existing
+Dell Rattler,NVIDIA A100,2020-11-16,2021-11-01,192.0,350.0,Dell Technologies,United States of America,Existing
+High-Performance Computing Center Stuttgart Hawk,NVIDIA A100,2020-11-16,2021-09-20,192.0,308.0,University of Stuttgart,Germany,Existing
+MIT LLSC TX-GAIA,NVIDIA V100,2019-11-26,2019-09-26,896.0,-61.0,US Department of Defense,United States of America,Existing
+Nagoya University Flow Type II (Furo),NVIDIA V100,2019-11-26,2020-07-30,884.0,247.0,Nagoya University,Japan,Existing
+Japanese Research Institute 1 Supercomputer 1,NVIDIA V100,2019-11-26,2019-06-01,832.0,-178.0,,Japan,Existing
+Microsoft Azure ND v2 Largest Stated,NVIDIA V100,2019-11-26,2019-11-18,800.0,-8.0,Microsoft,United States of America,Existing
+MTS Grom,NVIDIA A100,2020-11-16,2021-06-01,160.0,197.0,MTS,Russia,Existing
+NVIDIA Tethys,NVIDIA A100,2020-11-16,2021-11-01,160.0,350.0,NVIDIA,United States of America,Existing
+Vingroup VinAI Research Superpod,NVIDIA A100,2020-11-16,2021-05-30,160.0,195.0,Vingroup,Vietnam,Existing
+Simon Fraser University/Compute Canada Cedar,NVIDIA V100,2019-11-26,2020-06-01,768.0,188.0,Compute Canada,Canada,Existing
+SAKURA Internet 2019 V100 Supercomputer,NVIDIA V100,2019-11-26,2019-06-01,768.0,-178.0,Sakura Internet,Japan,Existing
+Petrobras Fênix Phase 2,NVIDIA V100,2019-11-26,2020-06-01,720.0,188.0,Petrobras,Brazil,Existing
+Samsung SSC-21 Scalable Module,NVIDIA A100,2020-11-16,2021-11-01,144.0,350.0,Samsung,Korea (Republic of),Existing
+Calcul Québec Béluga,NVIDIA V100,2019-11-26,2019-04-26,688.0,-214.0,Compute Canada,Canada,Existing
+NCI Australia Gadi,NVIDIA V100,2019-11-26,2020-01-23,640.0,58.0,National Computational Infrastructure Australia,Australia,Existing
+PLUG training cluster,NVIDIA A100,2020-11-16,2021-04-19,128.0,154.0,,,Existing
+RPI Supercomputer 2,NVIDIA V100,2019-11-26,2020-06-01,608.0,188.0,Rensselaer Polytechnic Institute,United States of America,Existing
+Microsoft Research Hypercluster,NVIDIA V100,2019-11-26,2019-11-01,576.0,-25.0,Microsoft,United States of America,Existing
+Petrobras Fênix Phase 1,NVIDIA V100,2019-11-26,2019-06-01,576.0,-178.0,Petrobras,Brazil,Existing
+NVIDIA Circe,NVIDIA V100,2019-11-26,2018-11-01,576.0,-390.0,NVIDIA,United States of America,Existing
+Paper on SEER,NVIDIA V100,2019-11-26,2021-03-02,512.0,462.0,Meta AI,,Existing
+Paper on Megatron-LM,NVIDIA V100,2019-11-26,2019-09-17,512.0,-70.0,NVIDIA,United States of America,Existing
+Paper on SEER Training,NVIDIA V100,2019-11-26,2021-03-05,512.0,465.0,Meta AI,,Existing
+Paper on CogView,NVIDIA V100,2019-11-26,2021-05-26,512.0,547.0,Alibaba,,Existing
+University of Oxford Jade2,NVIDIA V100,2019-11-26,2020-11-01,504.0,341.0,University of Oxford,United Kingdom of Great Britain and Northern Ireland,Existing
+Paper on ALIGN,Google TPU v3,2018-05-18,2021-02-11,512.0,1000.0,Google,,Existing
+Paper on T5,Google TPU v3,2018-05-18,2019-10-23,512.0,523.0,Google,,Existing
+Paper on ALBERT,Google TPU v3,2018-05-18,2019-09-26,512.0,496.0,Google,,Existing
+Paper on XLM-R,NVIDIA V100,2019-11-26,2020-04-08,500.0,134.0,Meta AI,,Existing
+MIT Supercloud,NVIDIA V100,2019-11-26,2020-09-21,488.0,300.0,Massachusetts Institute of Technology (MIT),United States of America,Existing
+Paper on M6-T,NVIDIA V100,2019-11-26,2021-05-31,480.0,552.0,Alibaba,,Existing
+Continental DGX Supercomputer,NVIDIA V100,2019-11-26,2020-07-28,448.0,245.0,Continental AG,Germany,Existing
+"""Center for Advanced Intelligence Project, RIKEN, RAIDEN""",NVIDIA V100,2019-11-26,2018-06-01,416.0,-543.0,RIKEN,Japan,Existing
+Paper on AlphaStar,Google TPU v3,2018-05-18,2019-10-30,384.0,530.0,DeepMind,,Existing
+Laboratório Nacional de Computação Científica Santos Dumont,NVIDIA V100,2019-11-26,2019-11-01,368.0,-25.0,Laboratório Nacional de Computação Científica,Brazil,Existing
+RPI AiMOSx NPL Cluster,NVIDIA V100,2019-11-26,2020-06-01,320.0,188.0,Rensselaer Polytechnic Institute,United States of America,Existing
+CSC Puhti,NVIDIA V100,2019-11-26,2019-09-03,320.0,-84.0,CSC – IT Center for Science,Finland,Existing
+University of Tsukuba Cygnus,NVIDIA V100,2019-11-26,2019-04-30,320.0,-210.0,University of Tsukuba,Japan,Existing
+Immunity Bio Cluster,NVIDIA V100,2019-11-26,2020-04-01,320.0,127.0,ImmunityBio,United States of America,Existing
+SENAI CIMATEC Ogbon Cimatec/Petrobras,NVIDIA V100,2019-11-26,2019-11-01,312.0,-25.0,SENAI CIMATEC,Brazil,Existing
+IBM DYEUS,NVIDIA V100,2019-11-26,2019-11-18,296.0,-8.0,IBM,United States of America,Existing
+NVIDIA SATURN V Volta,NVIDIA V100,2019-11-26,2017-11-01,264.0,-755.0,NVIDIA,United States of America,Existing
+P3.16xlarge,NVIDIA V100,2019-11-26,2018-03-27,64.0,-609.0,,,Existing
